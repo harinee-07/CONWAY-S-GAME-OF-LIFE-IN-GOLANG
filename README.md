@@ -9,4 +9,6 @@ Have to provide the inputs listed below:
 
 Sample screenshot
 
-https://user-images.githubusercontent.com/52998066/148767462-20fc6398-0686-459d-a835-b4cce74db351.png
+<p align="center">
+<img src="https://user-images.githubusercontent.com/52998066/148768330-22f6d020-9940-49bf-9d0b-7c444d5bf9d5.png" >
+</p>
